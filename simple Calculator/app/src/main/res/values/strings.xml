@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="button1">+</string>
+    <string name="button2">-</string>
+    <string name="button3">/</string>
+    <string name="button4">x</string>
+    <string name="result">result</string>
+
+</resources>

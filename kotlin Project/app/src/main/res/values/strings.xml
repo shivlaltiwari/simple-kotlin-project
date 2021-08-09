@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="second">Second</string>
+    <string name="second_page">Second page</string>
+</resources>

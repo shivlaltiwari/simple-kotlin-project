@@ -47,7 +47,6 @@
         app:layout_constraintStart_toEndOf="@+id/etTodoTitle"
         app:rippleColor="#DC7272"
         tools:ignore="MissingConstraints" />
-    <!--        android:onClick="SavaTodo"-->
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
